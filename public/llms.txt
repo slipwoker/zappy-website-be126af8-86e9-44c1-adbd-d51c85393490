@@ -1,0 +1,97 @@
+# Proces פרוצס — Generative Engine Optimization Map
+
+> Proces is a comprehensive facility management and staffing company offering a wide range of professional cleaning and maintenance services for commercial buildings, offices, residential towers, hotels, and parking lots. The company stands out with advanced technical capabilities including drone-mounted water cannon cleaning, abseiling (rappelling) for high-rise window cleaning, reverse osmosis window treatment, nano coating, and eco-friendly pest control. They serve both ongoing contract clients and one-time customers, combining general labor supply with highly specialized professional cleaning divisions.
+
+---
+
+## Pages
+
+### ניקיון ותחזוקה בגובה אחר — Proces פרוצס
+https://example.com
+פרוצס מביאה לשוק הניקיון והתחזוקה מהפכה של ממש: משירותי ניקיון משרדים ועד ניקוי חלונות בגובה באמצעות רחפן, סנפלינג ואוסמוזה הפוכה. שדרגו את הנכס שלכם עוד היום.
+
+### שירותי גובה עם רחפן וסנפלינג — Proces פרוצס
+https://example.com/cleaning-services
+מנקים הכול, מגיעים לכל מקום: ניקוי חלונות בגובה בעזרת רחפן תותח מים, ציפוי ננו, הדברה ירוקה ועוד. השירותים המתקדמים של פרוצס מחכים לכם כאן.
+
+### ניהול מתקנים וכוח אדם מקצועי — Proces פרוצס
+https://example.com/management-staffing
+פרוצס משלבת אספקת כח אדם כללי עם חטיבות ניקיון מקצועיות לעבודה בגובה. פתרונות ניהול מתקנים חכמים לבנייני משרדים, מלונות ומגדלי יוקרה. דברו איתנו.
+
+### Page
+https://example.com/about-us
+
+### דברו איתנו על ניקיון ותחזוקה בגובה — Proces פרוצס
+https://example.com/contact
+צריכים הצעת מחיר לניקוי חלונות ברחפן או חוזה תחזוקה שוטף? צרו קשר עם פרוצס ונחזור אליכם במהירות עם הפתרון המושלם לניקיון מקצועי בגובה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: proces@outlook.co.il
+- Phone: 077-4243446
+- Phone (tel): tel:0774243446
+- Address: נגב 2, קרית שדה התעופה, ישראל
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Proces פרוצס
+Proces is a comprehensive facility management and staffing company offering a wide range of professional cleaning and maintenance services for commercial buildings, offices, residential towers, hotels, and parking lots. The company stands out with advanced technical capabilities including drone-mounted water cannon cleaning, abseiling (rappelling) for high-rise window cleaning, reverse osmosis window treatment, nano coating, and eco-friendly pest control. They serve both ongoing contract clients and one-time customers, combining general labor supply with highly specialized professional cleaning divisions.
+
+## Services/Products
+- אספקת כוח אדם כללי ומקצועי
+- שירותי ניקיון שוטף יומיומי
+- ניקיון מקצועי מתקדם (חלונות, גובה, אוסמוזה הפוכה, רחפן)
+- קרצוף, ליטוש וציפוי משטחים
+- ניקיון לאחר בנייה ושיפוץ
+- ניהול ואחזקת מבנים מסחריים ומגורים
+- הסרת גרפיטי וכתמים
+- חיטוי מעבדות וחדרים נקיים
+- הדברה רגילה וירוקה
+- בישום ושירותים משלימים
+
+## Target Audience
+- עסקים, משרדים, מגדלי מגורים, מלונות, חניונים, מפעלים ולקוחות מזדמנים
+- משרדים עסקיים
+- מגדלי מגורים
+- בתי מלון
+
+## Industry
+Facility Management & Staffing Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
